@@ -1,2 +1,2 @@
 # Calculator
-Calculator using what I learned from TOP 
+Calculator using javascript
